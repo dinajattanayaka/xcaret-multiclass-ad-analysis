@@ -1,7 +1,6 @@
 # xcaret-multiclass-ad-analysis
 
-Supplementary data and results for the multiclass O-RAN anomaly-detection paper, built on the
-[xcaret-ocudu-dataset](https://github.com/dinajattanayaka/xcaret-ocudu-dataset) testbed.
+Supplementary data and results for the paper: "Intelligent Security Orchestration in Open RAN with Anomaly Detection Model Analysis"
 
 ## Repo structure
 
